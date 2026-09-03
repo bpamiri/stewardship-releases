@@ -97,6 +97,11 @@ download the newest installer from the
 
 - Everything stays **on your computer**. There is no cloud, no sign-in, and the
   app works fully offline.
+- **Crash reporting is optional.** The app can send *anonymous* crash reports
+  (only the error type, a stack trace, and the app version — never financial
+  data, names, or amounts) to help the developer fix bugs. It's on by default;
+  turn it off anytime in **Settings → Diagnostics & privacy**, or during
+  first-time setup.
 - Your records are stored as one file per fiscal year, by default under
   `Documents/Bahai/<fiscal year>/`. You choose where, and you control the backups.
 - The first time you open the app, a short setup wizard helps you create your
