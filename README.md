@@ -12,6 +12,7 @@ It runs entirely on your own computer — **no internet connection, no cloud, no
 account.** Your Assembly's records never leave your machine.
 
 > 📥 **[Download the latest version →](https://github.com/bpamiri/stewardship-releases/releases/latest)**
+> 📘 **[Read the treasurer manual →](StewardshipTreasurerManual.pdf)**
 
 <!-- Screenshot goes here once available: ![Stewardship](docs/screenshot.png) -->
 
@@ -97,6 +98,16 @@ download the newest installer from the
   to get familiar with the app.
 
 Treat your Assembly's records as confidential, per the NSA Stewardship Manual.
+
+---
+
+## Documentation
+
+A complete user manual is available as a PDF. It walks through setup, day-to-day
+bookkeeping (contributions, expenses, receipts, imports), monthly reports, bank
+reconciliation, and the year-end audit and annual reports:
+
+📘 **[Stewardship Treasurer Manual →](StewardshipTreasurerManual.pdf)**
 
 ---
 
