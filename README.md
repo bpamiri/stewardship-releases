@@ -71,7 +71,13 @@ Pick whichever matches your distribution from the
 
 ### Windows
 
-Not available yet — a Windows build is planned. For now, use macOS or Linux.
+1. Download **`Stewardship_…_x64-setup.exe`**.
+2. Run the installer — it installs for your user account, no admin password needed.
+3. Launch **Stewardship** from the Start menu.
+
+The Windows build isn't code-signed yet, so the first time you run it, Windows
+SmartScreen shows an "unrecognized app" warning — click **More info → Run anyway**.
+Updates are still verified by Stewardship's own signature.
 
 ---
 
